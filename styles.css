@@ -36,9 +36,9 @@ h1 {
 }
 
 .card {
-    width: 160px;
+    width: 160px !important;
     max-width: 160px;
-    height: 120px;
+    height: 120px !important;
     max-height: 120px;
     background-color: #565c6f;
     border-radius: 10px;
