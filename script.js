@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.setAttribute('data-id', i);
             card.setAttribute('width', '240px');
             card.addEventListener('click', flipCard);
-            grid.appendChild(card);
+            grid.appendChild(card); 
         }
     }
 
